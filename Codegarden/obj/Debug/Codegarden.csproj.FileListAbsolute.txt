@@ -73,8 +73,6 @@ C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\controls.xml
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\Examine.pdb
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\HtmlAgilityPack.pdb
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\HtmlAgilityPack.xml
-C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\ImageProcessor.xml
-C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\ImageProcessor.Web.xml
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\interfaces.xml
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\Lucene.Net.xml
 C:\Users\Simon\Desktop\Semester-exam\Codegarden\bin\Microsoft.AspNet.Identity.Core.xml
